@@ -1,0 +1,33 @@
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
+[submodule "modules/user"]
+	path = modules/user
+	url = git@github.com:eblount/useradmin.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git@github.com:eblount/pagination.git
+[submodule "modules/oauth"]
+	path = modules/oauth
+	url = git@github.com:eblount/oauth.git
+[submodule "modules/email"]
+	path = modules/email
+	url = git@github.com:eblount/kohana-email.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = git://github.com/kohana/auth.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = git://github.com/kohana/cache.git
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/kohana/database.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git://github.com/kohana/orm.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = git://github.com/kohana/unittest.git
+[submodule "modules/useradmin-bootstrap"]
+	path = modules/useradmin-bootstrap
+	url = git@github.com:eblount/useradmin-bootstrap.git
